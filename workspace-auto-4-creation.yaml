@@ -3,7 +3,7 @@ kind: Workspace
 metadata:
   creationTimestamp: null
   name: auto-4
-  kommander.mesosphere.io/display-name: auto-4
+  #kommander.mesosphere.io/display-name: auto-4
 spec:
   namespaceName: auto-4
 status: {}
