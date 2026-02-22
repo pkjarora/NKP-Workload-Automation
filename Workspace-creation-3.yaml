@@ -5,7 +5,7 @@ metadata:
     kommander.mesosphere.io/description: ""
     kommander.mesosphere.io/display-name: auto-3
   creationTimestamp: null
-  name: auto-4
+  name: auto-3
 spec:
-  namespaceName: auto-4
+  namespaceName: auto-3
 status: {}
