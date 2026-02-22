@@ -1,0 +1,9 @@
+apiVersion: workspaces.kommander.mesosphere.io/v1alpha1
+kind: Workspace
+metadata:
+  creationTimestamp: null
+  name: auto-5
+    #kommander.mesosphere.io/display-name: auto-4
+spec: 
+  namespaceName: auto-5
+status: {}
